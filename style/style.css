@@ -1,0 +1,208 @@
+.body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    padding: 1rem 0;
+    }
+
+header .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    margin: 0 30px;
+}
+
+header a {
+    margin: 10px;
+}
+header .logo {
+    height: 60px;
+    width: 130px;
+}
+
+.search {
+    background-color: #F7F9FA;
+    text-align: left;
+    font-size: 1.2rem;
+    color: #6A7177;
+    border-radius: 30px;
+    width: 45rem;
+    height: 3.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-log-in {
+    background-color: white;
+    width: 7rem;
+    height: 3rem;
+    font-size: 1.2rem;
+}
+
+
+
+.btn-sign-up{
+    background-color: black;
+    width: 7rem;
+    height: 3rem;
+    font-size: 1.2rem;
+}
+
+.btn-sign-up a{
+    color: white;
+}
+
+.globe {
+    background-color: white;
+    width: 3rem;
+    height: 3rem;
+}
+
+.learn {
+    display: grid;
+}
+
+.friday, .pop {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.pop {
+    background-color: white;
+    margin: 70px 100px;
+    height: 15rem;
+    width: 31rem;
+    padding-left:  2rem;
+    font-size: 1.6rem;
+}
+
+.broad {
+    font-size: 2rem;
+    line-height: 1.35;
+    letter-spacing: -.02rem;
+    margin-left: 20px;
+}
+
+.courses {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin-left: 20px;
+    font-size: 1.3rem;
+    color: gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.career {
+    border-color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 40px;
+}
+
+.career-text {
+    font-size: 1.5rem;
+}
+
+.explore {
+    background-color: white;
+    margin: 30px 0;
+    height: 3rem;
+    width: 10rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.python-courses {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    font-size: 1.2rem;
+    padding-right: 10px;
+}
+
+.python-courses img {
+    width: 17rem;
+    height: 12rem;
+}
+
+.data {
+    border : 0.5px solid black;
+    margin-right: 30px;
+}
+
+.rating ion-icon {
+    color: #E59819;
+}
+
+.rating strong {
+    color: #C06B0E;
+}
+
+.btn-best {
+    background-color: #ECEB98;
+    height: 1.5rem;
+    width: 5rem;
+    font-size: .9rem;
+    font-weight: bold;
+    border: none;
+    color: #863C0A;
+}
+
+.price strong {
+    color: black;
+    font-weight: bolder;
+}
+
+.price del {
+    color: grey;
+}
+
+.creator{
+    color: grey;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.number{
+    color: grey;
+}
+
+.space {
+    display: flex;
+    height: 4em;
+    background-color:#F7F9FA;
+    justify-content: space-between;
+    margin: 50px 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 40px 40px;
+    align-content: center;
+}
+
+.star img, .infinity img {
+    height: 40px;
+    width: 40px;
+    background-color: #F7F9FA;
+}
+
+.star, .infinity, .caret {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+.courses {
+    justify-content: space-between;
+}
