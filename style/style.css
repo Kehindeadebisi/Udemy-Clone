@@ -143,6 +143,14 @@ a {
     margin-right: 30px;
 }
 
+.dev{
+    padding-right: 25px;
+}
+
+.python{
+    padding-left: 25px;
+}
+
 .rating ion-icon {
     color: #E59819;
 }
@@ -182,7 +190,7 @@ a {
 
 .space {
     display: flex;
-    height: 4em;
+    height: 3em;
     background-color:#F7F9FA;
     justify-content: space-between;
     margin: 50px 0;
@@ -205,4 +213,57 @@ a {
 }
 .courses {
     justify-content: space-between;
+}
+
+.more-courses {
+    margin: 20px;
+}
+
+.top-categories {
+    margin: 100px 20px 20px 20px;
+    font-size: 1.5rem;
+}
+
+.categories, .categories2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.categories img, .categories2 img {
+    width: 24rem;
+}
+
+.feature-text {
+    background-color: #F7F9FA;
+}
+.content{
+    background-color: #F7F9FA;
+    margin: 50px 0px;
+    padding: 2rem;
+    
+}
+.topics{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    font-size: 1.3rem;
+}
+
+.topics a{
+    text-decoration: underline;
+    color: blue;
+    font-weight: bold;
+}
+
+.topics p {
+    color: #6A7177;
+}
+
+.btn-topics {
+    background-color: inherit;
+    color: black;
+    font-size: 1rem;
+    width: 12rem;
+    height: 3rem;
+    font-weight: bolder;
 }
