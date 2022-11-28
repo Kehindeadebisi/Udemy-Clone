@@ -120,10 +120,10 @@ a {
 
 .explore {
     background-color: white;
-    margin: auto 0;
+    margin: 20px 0;
     height: 3rem;
-    width: 9rem;
-    font-size: 1.2rem;
+    width: 10rem;
+    font-size: 1rem;
     font-weight: bold;
 }
 
@@ -136,7 +136,7 @@ a {
 }
 
 .python-courses img {
-    width: 13rem;
+    width: 15rem;
     height: 10rem;
 }
 
