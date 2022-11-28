@@ -136,10 +136,13 @@ a {
 }
 
 .python-courses img {
-    width: 1.4rem;
+    width: 1.3rem;
     height: 10rem;
 }
 
+.arrow{
+    margin-right: 30px;
+}
 .data {
     border: 0.5px solid black;
     margin-right: 10px;
