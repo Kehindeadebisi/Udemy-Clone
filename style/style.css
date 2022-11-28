@@ -26,7 +26,7 @@ header a {
 }
 
 header .logo {
-    height: 60px;
+    height: 50px;
     width: 130px;
 }
 
@@ -36,7 +36,7 @@ header .logo {
     font-size: .9rem;
     color: #6A7177;
     border-radius: 30px;
-    width: 35rem;
+    width: 33rem;
     height: 3.2rem;
 }
 
@@ -47,7 +47,7 @@ a {
 
 .btn-log-in {
     background-color: white;
-    width: 7rem;
+    width: 6.5rem;
     height: 3rem;
     font-size: 1rem;
 }
@@ -56,7 +56,7 @@ a {
 
 .btn-sign-up {
     background-color: black;
-    width: 7rem;
+    width: 6.5rem;
     height: 3rem;
     font-size: 1rem;
 }
@@ -238,7 +238,7 @@ a {
 
 .categories img,
 .categories2 img {
-    width: 20rem;
+    width: 18rem;
 }
 
 .feature-text {
