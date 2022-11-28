@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
@@ -16,9 +17,8 @@ header .top {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.1rem;
-    margin: 0 auto;
+    font-size: .9rem;
+    margin: 0 10px;
 }
 
 header a {
@@ -27,17 +27,17 @@ header a {
 
 header .logo {
     height: 60px;
-    width: 130px;
+    width: 120px;
 }
 
 .search {
     background-color: #F7F9FA;
     text-align: left;
-    font-size: 1.2rem;
+    font-size: .9rem;
     color: #6A7177;
     border-radius: 30px;
-    width: 45rem;
-    height: 3.5rem;
+    width: 35rem;
+    height: 3.2rem;
 }
 
 a {
@@ -101,7 +101,7 @@ a {
     display: flex;
     justify-content: space-between;
     width: 65%;
-    margin-left: 10px;
+    margin-left: 30px;
     font-size: 1.2rem;
     color: gray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -110,7 +110,7 @@ a {
 .career {
     border-color: black;
     border: 1px solid black;
-    margin: 10px;
+    margin: 30px;
     padding: 40px;
 }
 
@@ -131,13 +131,13 @@ a {
     display: flex;
     justify-content: space-evenly;
     align-content: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     padding-right: 10px;
 }
 
 .python-courses img {
-    width: 17rem;
-    height: 12rem;
+    width: 13rem;
+    height: 10rem;
 }
 
 .data {
